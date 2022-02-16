@@ -1,0 +1,35 @@
+<form action="newpatient.php" method="POST">
+    Patient Fullname:
+    <input type="text" id="pFullName" name="pFullName"><br><br>
+    Patient Age: 
+    <input type="text" id="age" name="age"><br><br>
+    Patient Weight:
+    <input type="text" id="weight" name="weight"><br><br>
+    Patient Height:
+    <input type="text" id="height" name="height"><br><br>
+    <label for="gender">Gender:</label>
+    <select id="gender" name="gender">
+    <option value="Male">Male</option>
+    <option value="Female">Female</option>
+    <option value="Other">Other</option>
+    </select><br><br>
+    <label for="bloodgroup">Select Patient Bloodgroup:</label>
+    <select id="bloodgroup" name="bloodgroup">
+    <option value="A+">A+</option>
+    <option value="A-">A-</option>
+    <option value="B+">B+</option>
+    <option value="B-">B-</option>
+    <option value="AB+">AB+</option>
+    <option value="AB-">AB-</option>
+    <option value="O+">O+</option>
+    <option value="O-">O-</option>
+    </select><br><br>
+    <label for="genotype">Select Patient Genotype:</label>
+    <select id="genotype" name="genotype">
+    <option value="AA">AA</option>
+    <option value="AS">AS</option>
+    <option value="SS">SS</option>
+    <option value="AC">AC</option>
+    </select><br><br>
+    <input type="submit" value="Submit">
+    </form>
