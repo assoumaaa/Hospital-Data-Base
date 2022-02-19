@@ -1,6 +1,6 @@
 # Hospital-Data-Base
 
-<img src="https://user-images.githubusercontent.com/94231603/154779830-5a4ff101-903c-4f47-b043-e31bb1167382.gif" width:"200" height:"200">
+<img src="https://user-images.githubusercontent.com/94231603/154779830-5a4ff101-903c-4f47-b043-e31bb1167382.gif" width:"500" height:"500">
 
 
 
