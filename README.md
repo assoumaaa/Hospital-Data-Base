@@ -3,9 +3,9 @@
 
 <img src="https://user-images.githubusercontent.com/94231603/154779830-5a4ff101-903c-4f47-b043-e31bb1167382.gif" width="1500" height="500">
 
+NOTE: This is a group project by myself and  [IamTaio](https://github.com/IamTaio)
 
 
-This is a group project by myself and  [IamTaio](https://github.com/IamTaio)
 
 Whats used in this project?: 
 - HTML, CSS, PHP
